@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function () {
 
     // Select DOM elements
-    const addButton = document.getElementById('add-button'); // Add Task button
+    const addButton = document.getElementById('add-task-btn'); // Add Task button
     const taskInput = document.getElementById('task-input'); // Task input field
     const taskList = document.getElementById('task-list');   // Unordered list to display tasks
 
